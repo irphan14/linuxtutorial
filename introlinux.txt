@@ -13,3 +13,7 @@ echo
 vi 
 nano
 pwd
+
+ubunto
+(i)linux
+(ii)many software
