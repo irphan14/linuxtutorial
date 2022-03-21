@@ -17,3 +17,8 @@ pwd
 ubunto
 (i)linux
 (ii)many software
+
+some changes
+feature
+gui
+and many more
