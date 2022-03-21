@@ -1,0 +1,9 @@
+linux intro
+Linux is an open source operating system
+there many command like
+cd
+ls
+mkdir
+rmdir
+mv
+cp
