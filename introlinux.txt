@@ -7,3 +7,9 @@ mkdir
 rmdir
 mv
 cp
+rename
+touch 
+echo
+vi 
+nano
+pwd
